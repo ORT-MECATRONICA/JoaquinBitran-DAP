@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "725729088217",
+    "project_id": "dap-2024-final-project",
+    "storage_bucket": "dap-2024-final-project.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:725729088217:android:9e10653dbc2e59eaade4c8",
+        "android_client_info": {
+          "package_name": "com.example.final_project_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgmQ5dEn_fSAml0BPO4aRvXPjtBAdbzO8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
